@@ -3,3 +3,4 @@
 
 Go to https://github.com/bj4rnee/NoDeathDespawn/releases for a precompiled .jar version!
 
+Feel free to view and edit the source code :D
