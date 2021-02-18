@@ -1,0 +1,6 @@
+name: NoDeathDespawn
+author: bjarne.dev
+version: "1.0"
+main: dev.bjarne.noDeathDespawn.main
+description: Disable the despawning of dropped items on player death.
+api-version: 1.13
